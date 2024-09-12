@@ -1,0 +1,156 @@
+{
+    "Damascus": {
+        "location": {
+            "lat": 33.5102,
+            "lon": 36.2913
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 0,
+            "wind_speed": 2.76
+        }
+    },
+    "Beirut": {
+        "location": {
+            "lat": 33.8889,
+            "lon": 35.4944
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 0,
+            "wind_speed": 2.43
+        }
+    },
+    "Amman": {
+        "location": {
+            "lat": 31.9552,
+            "lon": 35.945
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 0,
+            "wind_speed": 2.41
+        }
+    },
+    "Cairo": {
+        "location": {
+            "lat": 30.0626,
+            "lon": 31.2497
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 0,
+            "wind_speed": 6.95
+        }
+    },
+    "Baghdad": {
+        "location": {
+            "lat": 33.3406,
+            "lon": 44.4009
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 0,
+            "wind_speed": 7.51
+        }
+    },
+    "Tehran": {
+        "location": {
+            "lat": 35.6944,
+            "lon": 51.4215
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 3,
+            "wind_speed": 0.39
+        }
+    },
+    "Riyadh": {
+        "location": {
+            "lat": 24.6877,
+            "lon": 46.7219
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 10,
+            "wind_speed": 1.71
+        }
+    },
+    "Tripoli": {
+        "location": {
+            "lat": 32.8752,
+            "lon": 13.1875
+        },
+        "weather": {
+            "weather": "Clouds",
+            "clouds": 56,
+            "wind_speed": 9.03
+        }
+    },
+    "Ankara": {
+        "location": {
+            "lat": 39.9199,
+            "lon": 32.8543
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 0,
+            "wind_speed": 2.23
+        }
+    },
+    "Khartoum": {
+        "location": {
+            "lat": 15.5518,
+            "lon": 32.5324
+        },
+        "weather": {
+            "weather": "Clouds",
+            "clouds": 11,
+            "wind_speed": 3.05
+        }
+    },
+    "Sanaa": {
+        "location": {
+            "lat": 15.3547,
+            "lon": 44.2067
+        },
+        "weather": {
+            "weather": "Clouds",
+            "clouds": 98,
+            "wind_speed": 1.56
+        }
+    },
+    "Manama": {
+        "location": {
+            "lat": 26.2154,
+            "lon": 50.5832
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 0,
+            "wind_speed": 1.55
+        }
+    },
+    "Kuwait City": {
+        "location": {
+            "lat": 29.3697,
+            "lon": 47.9783
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 0,
+            "wind_speed": 7.5
+        }
+    },
+    "Doha": {
+        "location": {
+            "lat": 25.2867,
+            "lon": 51.5333
+        },
+        "weather": {
+            "weather": "Clear",
+            "clouds": 0,
+            "wind_speed": 1.62
+        }
+    }
+}

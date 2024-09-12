@@ -1,0 +1,16 @@
+[
+  { "Target City": "Damascus", "Priority": 5 },
+  { "Target City": "Beirut", "Priority": 4 },
+  { "Target City": "Amman", "Priority": 3 },
+  { "Target City": "Cairo", "Priority": 3 },
+  { "Target City": "Baghdad", "Priority": 5 },
+  { "Target City": "Tehran", "Priority": 4 },
+  { "Target City": "Riyadh", "Priority": 3 },
+  { "Target City": "Tripoli", "Priority": 2 },
+  { "Target City": "Ankara", "Priority": 4 },
+  { "Target City": "Khartoum", "Priority": 3 },
+  { "Target City": "Sanaa", "Priority": 2 },
+  { "Target City": "Manama", "Priority": 2 },
+  { "Target City": "Kuwait City", "Priority": 3 },
+  { "Target City": "Doha", "Priority": 4 }
+]
